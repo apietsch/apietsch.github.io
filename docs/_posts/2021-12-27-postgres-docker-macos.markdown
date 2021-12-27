@@ -2,6 +2,7 @@
 layout: post
 title:  "How to run postgres from macos with the help of docker"
 tags: postgres docker
+categories: CATEGORY-1 CATEGORY-2
 ---
 
 # Welcome
