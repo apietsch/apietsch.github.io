@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to run postgres from macos with the help of docker"
-tag: postgres docker
+tags: postgres docker
 ---
 
 # Welcome
